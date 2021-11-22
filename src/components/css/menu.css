@@ -4,9 +4,12 @@
 }
 
 .Menu .primary-text{
+  text-align: center;
   padding-top: 5%
 }
 
 .Menu .secondary-text{
+  text-align: center;
   padding-bottom: 3%
+  
 }

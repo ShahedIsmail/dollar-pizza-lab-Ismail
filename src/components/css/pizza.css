@@ -4,6 +4,11 @@
   background-size: cover;
   background-position: center;
 }
+.header-text {
+    text-align: center;
+    font-size: 150px;
+    color: white;
+  }
 
 .Pizza .header-text {
   padding-top: 8%;
